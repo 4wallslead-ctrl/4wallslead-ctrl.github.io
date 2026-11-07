@@ -1,0 +1,9 @@
+{
+  "_comment": "Public company details for the website's legal pages. Edit, then run: python3 scripts/legal/generate_legal.py. Leave a value empty to use the neutral fallback.",
+  "entity": "4WALLS PREMIUM REALTY",
+  "address": "No. 262, Kumaran Nagar, Sholavaram 7th Cross Street, Chennai, Tamil Nadu - 600067",
+  "support_email": "support@4wallsre.com",
+  "privacy_email": "support@4wallsre.com",
+  "grievance_contact": "Grievance Officer, 4WALLS PREMIUM REALTY, support@4wallsre.com",
+  "account_deletion_url": "/legal/account-deletion/"
+}
